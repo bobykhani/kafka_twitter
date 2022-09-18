@@ -56,7 +56,8 @@ docker-compose -f docker_compose.yml
 ````
 
 ## Connecting to database
-After running the docker-compose command you also can directly to the docker container database and reach to the data\
+After running the docker-compose command you also can directly connect to the docker container database and reach to data
+
 localhost:5435\
 maindb = postgres\
 username = postgresuser\
