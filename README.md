@@ -1,7 +1,7 @@
 # Twitter Kafka Postgres
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/30469278/190903697-7e00bb41-8559-471e-a160-0162ef2f4a86.png" width=70% height=70%>
+<img src="https://user-images.githubusercontent.com/30469278/190911375-c3456750-7660-46ff-ad57-cfadf2008e89.png" width=70% height=70%>
 </p>
 
 
