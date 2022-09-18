@@ -1,7 +1,7 @@
 # Twitter Kafka Postgres
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/30469278/190903697-7e00bb41-8559-471e-a160-0162ef2f4a86.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/30469278/190903697-7e00bb41-8559-471e-a160-0162ef2f4a86.png" width=70% height=70%>
 </p>
 
 
@@ -52,7 +52,7 @@ cd kafka_twitter
 ````
 
 ````
-docker-compose -f docker_compose.yml
+docker-compose -f docker_compose.yml up
 ````
 
 ## Connecting to database
