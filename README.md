@@ -28,7 +28,7 @@ Kafka Streams lets you read data in real time from a topic, process that data (s
 ## Endpoint:
 GET /2/tweets/sample/stream
 
-###what we get?
+### What we get?
 Tweet ID, Tweet content
 
 ### More information:
@@ -62,3 +62,9 @@ localhost:5435\
 maindb = postgres\
 username = postgresuser\
 password = posrgrespw
+
+
+''''
+SELECT tweet_id, text
+	FROM public.twitter_data;
+''''
