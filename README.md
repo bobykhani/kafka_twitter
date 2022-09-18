@@ -64,7 +64,7 @@ username = postgresuser\
 password = posrgrespw
 
 
-''''
+````
 SELECT tweet_id, text
 	FROM public.twitter_data;
-''''
+````
