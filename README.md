@@ -6,9 +6,10 @@
 
 
 ## PubSub
-Pub/Sub allows services to communicate asynchronously, with latencies on the order of 100 milliseconds. Pub/Sub is used for streaming analytics and data integration pipelines to ingest and distribute data.
 
-The Pub Sub queue (or Pub/Sub) is a message pattern of message brokers and it is used to communicate between the various components of micro-services. It is used to provide program-to-program and asynchronous communication between the micro-services.
+Pub/Sub provides messaging between applications. Cloud Pub/Sub is designed to provide reliable, many-to-many, asynchronous messaging between applications. Publisher applications can send messages to a "topic" and other applications can subscribe to that topic to receive the messages.
+
+Pub/Sub allows services to communicate asynchronously, with latencies on the order of 100 milliseconds. Pub/Sub is used for streaming analytics and data integration pipelines to ingest and distribute data.
 
 ## Kafka
 <p align="center">
